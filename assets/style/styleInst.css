@@ -1,0 +1,11 @@
+body{
+    padding: 0 10% !important;    
+}
+
+input[type=submit]{
+    color: white !important;
+}
+
+h5{
+    text-align: center;
+}
